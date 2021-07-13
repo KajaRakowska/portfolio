@@ -40,7 +40,7 @@ Pełna zapału i ambitna kandydatka na stanowisko testera oprogramowania. Dzięk
 * Junior IT, dobry start, początkujący programista, tester i nie tylko
 * Tester oprogramowania - wsparcie na starcie
 
-**Ksiązki**
+**Książki**
 
 * K. Zmitrowicz - "Jakość projektów informatycznych. Rozwój i testowanie orprogramowania"
 * R. Pawlak - "Testowanie Oprogramowania"
