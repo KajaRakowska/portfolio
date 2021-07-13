@@ -32,7 +32,7 @@ Pełna zapału i ambitna kandydatka na stanowisko testera oprogramowania. Dzięk
 * [Certyfikat Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d4d1185dfbb2a992c897d5567340950a8ebcdd608)
 * [Certyfikat SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d6e92973e0ddc7d877d03419806c1bfda1f9b1ee9/scrum/linkedin)
 
-**Grupy Facebook**
+**Grupy na Facebooku**
 
 * Cherry-IT: Zostań Testerem
 * Kodilla - darmowa nauka programowania HTML, CSS, JavaScript, Java, Python
@@ -46,8 +46,10 @@ Pełna zapału i ambitna kandydatka na stanowisko testera oprogramowania. Dzięk
 * R. Pawlak - "Testowanie Oprogramowania"
 * B. Forta - "SQL w mgnieniu oka. Opanuj język zapytań w 10 minut dziennie. Wydanie IV"
 
-**Moje przykładowe przypadeki testowe**
+**Moje przykładowe przypadki testowe/zgłoszenia błędów**
 
 * [TC - Prawidłowe zarejestrowanie się na stronie Bazy Usług Rozwojowych](https://docs.google.com/spreadsheets/d/1G9JX37vrVHA7FhuPYgGin7XftoitN4tFpxjeATZaol4/edit?usp=sharing)
-* [TC - wprowadzenie "numer" w pole "numer paszportu" (screen Jira)](https://docs.google.com/drawings/d/1KjoQEYxWG2AwPsZl4ymRtM5LApmpy3vzIQ1jh07dQ5w/edit?usp=sharing)
+* [TC - Wprowadzenie słowa "numer" w polu "numer paszportu" (screen Jira)](https://drive.google.com/file/d/1uHdQCtIbIt9pO1-StZ0v1gPN3ddVODbH/view?usp=sharing)
+* [TC - ćwiczenia (screen Confluence)](https://drive.google.com/file/d/1aZuKI3470ZNn9ZMJcoRnFkIKd8hvrmd9/view?usp=sharing)
+* [Zgłoszenie błędu w Jira - niewyraźne linki na stronie AromaCafe (testowanie za pomocą narzędzi deweloperskich w przeglądarce)](https://drive.google.com/file/d/1Ee-gxkF_jzpC3FFa0keryZ8Nanbfwvfm/view?usp=sharing)
 
