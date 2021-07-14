@@ -53,4 +53,7 @@ Pełna zapału i ambitna kandydatka na stanowisko testera oprogramowania. Dzięk
 * [TC - ćwiczenia (screen Confluence)](https://drive.google.com/file/d/1aZuKI3470ZNn9ZMJcoRnFkIKd8hvrmd9/view?usp=sharing)
 * [Zgłoszenie błędów podczas testowania strony AromaCafe](https://drive.google.com/file/d/1kwzcbe39rlEmSZAGnviUdILl3JwbJlzg/view?usp=sharing)
 * [Zgłoszenie błędu w Jira - niewyraźne linki na stronie AromaCafe (testowanie za pomocą narzędzi deweloperskich w przeglądarce)](https://drive.google.com/file/d/1Ee-gxkF_jzpC3FFa0keryZ8Nanbfwvfm/view?usp=sharing)
+* [TC - wprowadzenie niepoprawnego adresu e-mail w formularzu „Napisz do nas” na stronie firmy BUDmed](https://docs.google.com/spreadsheets/d/1CjNEvXFY2KFR_a5T1VS0d4xKHxXZeX_rIlR0BVUuUFM/edit?usp=sharing)
+* [Zgłoszenie błędu podczas testowania strony BUDmed](https://drive.google.com/file/d/1l6d7f407VCmBEU-6je2vY3dtQUX4Xu0H/view?usp=sharing)
+
 
