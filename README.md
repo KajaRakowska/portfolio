@@ -2,7 +2,7 @@
 
 **O mnie**
 
-Pełna zapału i ambitna kandydatka na stanowisko testera oprogramowania. Dzięki kilkuletniemud oświadczeniu w branży rozumiem jak istotna jest jakość oprogramowania dla funkcjonowania firm. Ukończyłam kurs „TesterOprogramowania”. Posiadam certyfikat ISTQB, który potwierdza zdobytą przeze mnie wiedzę na temat testowania. Poszukuję możliwości rozwoju w branży IT dlatego jestem zdeterminowana dodalszej nauki. Cechuje mnie umiejętność krytycznego myślenia orazzdolność do szybkiego przyswajania nowej wiedzy. Jestem spostrzegawcza i skrupulatna - zawsze dbam o szczegóły.Poznałam metodykę Scrum co pozwoli mi na wykorzystanie tej wiedzy w codziennej pracy i efektywne realizowanie powierzonych mi zadań. Jestem przekonana, że dzięki moim zdolnościom interpersonalnym będę świetnym dodatkiem do każdego zespołu.
+Pełna zapału i ambitna kandydatka na stanowisko testera oprogramowania. Dzięki kilkuletniemu doświadczeniu w branży rozumiem jak istotna jest jakość oprogramowania dla funkcjonowania firm. Ukończyłam kurs „TesterOprogramowania”. Posiadam certyfikat ISTQB, który potwierdza zdobytą przeze mnie wiedzę na temat testowania. Poszukuję możliwości rozwoju w branży IT dlatego jestem zdeterminowana dodalszej nauki. Cechuje mnie umiejętność krytycznego myślenia orazzdolność do szybkiego przyswajania nowej wiedzy. Jestem spostrzegawcza i skrupulatna - zawsze dbam o szczegóły.Poznałam metodykę Scrum co pozwoli mi na wykorzystanie tej wiedzy w codziennej pracy i efektywne realizowanie powierzonych mi zadań. Jestem przekonana, że dzięki moim zdolnościom interpersonalnym będę świetnym dodatkiem do każdego zespołu.
 
 **Narzędzia**
 
