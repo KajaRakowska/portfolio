@@ -29,7 +29,7 @@ Pełna zapału i ambitna kandydatka na stanowisko testera oprogramowania. Dzięk
 
 **Certyfikaty**
 
-* [Certyfikowany Tester ISTQB® Poziom Podstawowy]
+* Certyfikowany Tester ISTQB® Poziom Podstawowy
 * [Certyfikat Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d4d1185dfbb2a992c897d5567340950a8ebcdd608)
 * [Certyfikat SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d6e92973e0ddc7d877d03419806c1bfda1f9b1ee9/scrum/linkedin)
 
